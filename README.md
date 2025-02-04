@@ -30,5 +30,5 @@ This project involves an interactive and visually engaging analytics dashboard b
 - Canon imageCLASS 2200 Advanced Copier emerges as the top-selling product and top profitable product as well.
 - Avery non-stick blinders product is on the top on the orders.
 
-<img src = "https://github.com/ajita12334/SUPERSTORE_SALES_ANALYSIS/blob/main/Screenshot%202025-01-27%20194933.png">
+<img src = "https://github.com/ajita12334/SUPERSTORE_SALES_ANALYSIS/blob/main/superstore_sales_analytics.png">
 
